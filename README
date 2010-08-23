@@ -1,0 +1,8 @@
+go-coreutils package
+
+Basic file, shell and text manipulation utilities, written in the Go programming language
+
+As you can see, there's not much here yet.
+
+Nigel Gourlay
+ngourlay@gmail.com
